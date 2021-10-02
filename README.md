@@ -8,4 +8,4 @@ The Repo contains the index.html page, as well as an assets folder containing su
 Link to deployed app:
  https://queenmcsteve.github.io/Homework-02/ 
 Screenshot:
-![screenshot](./assets/images/QueenMcSteve_Portfolio_screenshot.jpg)
+![screenshot](./assets/images/QueenMcSteve_Portfolio_screenshot.JPG)
